@@ -1,6 +1,6 @@
 # ZX-Keyboard-Adapter
 
-## Do I need it?
+## Do you need it?
 
 When you build Sinclair ZX Spectrum clone or compatible machine you have to decide what kind of keyboard to use. If you are aiming for original case you will probably use original membranes with FFC tape connectors. If you are just experimenting or thinking about different case you can use one of more convenient modern versions. Most popular are probably [Superfo Harlequin 128 Keyboard](https://www.pcbway.com/project/shareproject/Supero_Harlequin_128_Keyboard.html) (with tactile switches) and [ZX Spectrum Keyboard](https://www.pcbway.com/project/shareproject/ZX_Spectrum_Keyboard.html) (with fully mechanical cherry-type switches). Those Harlequin keyboard are designed for Spectrum like machines but they use wires or goldpin connectors that gives you more flexibility. If you are building your own version of the machine you are not even obliged to have two separte 8-pin and 5-pin connectors if only you can transfer all needed signals.
 
