@@ -8,7 +8,7 @@ When you build Sinclair ZX Spectrum clone or compatible machine you have to deci
 ## What is inside?
 
 As for the connector, I have not found any standard so I followed reasonable pin assignment described in [ZX81 Keyboard Adventure](https://www.zx81keyboardadventure.com/p/zx-key-keyboard-guide-book.html). Inside IDC16 connector you have of course rows and columns of your keyboard.
-In your Sinclair machine columns C0..C4 are connected to ULA pins KBD0..KBD4 and available on data bus D0..D4. Rows are not sequential - R0..R7 are connected to address bus A11, A10, A9, A12, A13, A8, A14, A15.  Below you can see the setup (taken from original ZX Spectrum Service manual, edited by great Brendan Alford).
+In your Sinclair machine columns C0..C4 are connected to ULA pins KBD0..KBD4 and available on data bus D0..D4. Rows are not sequential - R0..R7 are connected to address bus A11, A10, A9, A12, A13, A8, A14, A15.  Below you can see the setup (taken from original ZX Spectrum Service manual, edited by great Brendan Alford). Please notice that "columns" and "rows" for this particular picture are different.
 
 <img width="1539" height="866" alt="Zrzut ekranu 2026-10-19 125500" src="https://github.com/user-attachments/assets/870a7d8f-dbe6-4c0b-9947-fe0fce79f89f" />
 
