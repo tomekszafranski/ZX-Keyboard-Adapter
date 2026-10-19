@@ -17,7 +17,7 @@ For ZX-81, rows R2 and R3 are swapped so you need a configuration jumpers. Conne
 
 <img width="1873" height="446" alt="37543cb3-16a9-45a7-988f-d1a97765d431" src="https://github.com/user-attachments/assets/91bd1160-9496-46b1-b79d-63b42f2b45e9" />
 
-IDC16 connector can be stright or angled depending on yor needs. Of course, install only those connectors that you need.
+IDC16 connector used can be straight or angled depending on your needs. Of course, feel free to install only those connectors that you need.
 
 Have fun!
 
