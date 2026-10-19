@@ -15,8 +15,6 @@ For ZX-81, rows R2 and R3 are swapped so you need a configuration jumpers. Conne
 
 <img width="1398" height="341" alt="ZX-Keyboard-Adapter_board" src="https://github.com/user-attachments/assets/34566410-2399-4f27-bf8c-122bff936e26" />
 
-<img width="1873" height="446" alt="37543cb3-16a9-45a7-988f-d1a97765d431" src="https://github.com/user-attachments/assets/91bd1160-9496-46b1-b79d-63b42f2b45e9" />
-
 <img width="1760" height="1138" alt="efaf8720-1810-49bb-9128-c7fe4a2ea946" src="https://github.com/user-attachments/assets/f5aa1be8-85cb-4eca-b6e8-32b5badb0505" />
 
 IDC16 connector used can be straight or angled depending on your needs. Of course, feel free to install only those connectors that you need.
