@@ -13,7 +13,7 @@ In your Sinclair machine columns C0...C4 are connected to ULA pins KBD0...KBD4 a
 
 For ZX-81, rows R2 and R3 are swapped so you need a configuration jumpers (see below). Connect them horizontally if you want standard configuration for ZX Spectrum or connect them vertically if you want the swap - using ZX Spectrum keyboard with ZX-81 or ZX-81 keyboard with ZX Spectrum. As described in [ZX81 Keyboard Adventure](https://www.zx81keyboardadventure.com/p/zx-key-keyboard-guide-book.html) three remaining pins in IDC16 connector are used for +5V, GND and RESET - in case there are components on your keyboard side that need to be powered.
 
-<img width="1398" height="341" alt="ZX-Keyboard-Adapter_board" src="https://github.com/user-attachments/assets/34566410-2399-4f27-bf8c-122bff936e26" />
+<img width="1381" height="337" alt="ZX-Keyboard-Adapter_board" src="https://github.com/user-attachments/assets/2be41b44-0fb1-49e8-b7e8-be74c6e545a0" />
 
 <img width="1760" height="1138" alt="efaf8720-1810-49bb-9128-c7fe4a2ea946" src="https://github.com/user-attachments/assets/f5aa1be8-85cb-4eca-b6e8-32b5badb0505" />
 
