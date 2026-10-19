@@ -1,3 +1,4 @@
+
 # ZX-Keyboard-Adapter
 
 ## Do you need it?
@@ -8,6 +9,9 @@ When you build Sinclair ZX Spectrum clone or compatible machine you have to deci
 
 As for the connector, I have not found any standard so I followed reasonable pin assignment described in [ZX81 Keyboard Adventure](https://www.zx81keyboardadventure.com/p/zx-key-keyboard-guide-book.html). Inside IDC16 connector you have of course rows and columns of your keyboard.
 In your Sinclair machine columns C0..C4 are connected to ULA pins KBD0..KBD4 and available on data bus D0..D4. Rows are not sequential - R0..R7 are connected to address bus A11, A10, A9, A12, A13, A8, A14, A15.  
+
+<img width="1539" height="866" alt="Zrzut ekranu 2026-10-19 125500" src="https://github.com/user-attachments/assets/870a7d8f-dbe6-4c0b-9947-fe0fce79f89f" />
+
 For ZX-81, R2 and R3 are swapped so you need a configuration jumpers. Connect them horizontally if you want described above configuration (for ZX Spectrum) or connect them vertically if you want the swap (using ZX Spectrum keyboard with ZX-81 or ZX-81 keyboard with ZX Spectrum).
 
 IDC16 connector can be stright or angled depending on yor needs. Of course, install only those connectors that you need.
