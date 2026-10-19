@@ -6,3 +6,12 @@ When you build Sinclair ZX Spectrum clone or compatible machine you have to deci
 Keyboard Adapter handles all above options (original and modern keyboards) and even works with ZX81 allowing to use its keyboard for your Spectrum and vice versa (set two jumpers vertically instead of horizontally, becasue ZX-81 has two rows swapped).
 
 <img width="1873" height="446" alt="37543cb3-16a9-45a7-988f-d1a97765d431" src="https://github.com/user-attachments/assets/91bd1160-9496-46b1-b79d-63b42f2b45e9" />
+
+Have fun!
+
+Tomek
+
+> [!NOTE]
+> **Disclaimer**: This is my project that I’ve built and it works for me. You can do it as well but remember, you’re responsible for your own doings and the consequences, not me.
+>
+> **Licensed under**: CERN Open Hardware Licence Version 2 - Strongly Reciprocal. Read [CERN-OHL-S](https://ohwr.org/cern_ohl_s_v2.txt)
